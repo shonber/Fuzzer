@@ -1,1 +1,1 @@
-Vulnerability Research Python3 Fuzzer
+Vulnerability Research Fuzzer in Python3
